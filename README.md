@@ -15,6 +15,8 @@ To enable it change following inside `value.yaml`
 ```
 image:
   repository: ethersphere/bee-netem
+  tag: latest
+  pullPolicy: Always
 
 securityContext:
   capabilities:
