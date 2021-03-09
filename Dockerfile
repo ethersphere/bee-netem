@@ -1,4 +1,4 @@
-FROM ethersphere/bee:0.4.2
+FROM ethersphere/bee:0.5.2
 
 USER root
 
